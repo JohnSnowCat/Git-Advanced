@@ -6,6 +6,7 @@ private static int m = 5;
     System.out.println("Hello GIT");
     fillMatrix(n, m);
     System.out.println("String 1");
+    System.out.println("String 2");
   }
 
   public static void fillMatrix(int n, int m) {
