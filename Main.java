@@ -5,6 +5,7 @@ private static int m = 5;
   public static void main(String[] args) {
     System.out.println("Hello GIT");
     fillMatrix(n, m);
+    System.out.println("String 1");
   }
 
   public static void fillMatrix(int n, int m) {
