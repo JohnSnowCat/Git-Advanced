@@ -7,6 +7,7 @@ private static int m = 5;
     fillMatrix(n, m);
     System.out.println("String 1");
     System.out.println("String 2");
+    System.out.println("String 3");
   }
 
   public static void fillMatrix(int n, int m) {
