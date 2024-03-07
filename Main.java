@@ -12,7 +12,7 @@ private static int m = 5;
     for(int i = 0; i < n; i++) {
       for(int j = 0; j < m; j++) {
         array[i][j] = "+";
-        System.out.println(array[i][j]);
+        System.out.print(array[i][j] + " ");
       }
       System.out.println("\n");
     }
